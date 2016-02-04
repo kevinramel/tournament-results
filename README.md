@@ -2,6 +2,7 @@
 Database schema to store the game matches between players. Code to query this data and determine the winners of various games.
 
 To open project:
+
 1. Download and extract folder to your preferred folder.
 2. Open terminal
 3. Change your directory to {your folder}/tournament-results/vagrant
