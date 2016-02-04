@@ -7,9 +7,11 @@ To open project:
 2. Open terminal
 3. Change your directory to {your folder}/tournament-results/vagrant
 
-Useful Commands: cd - for changing preferred directory
-		  ls - for listing the files and directories of the current folder
-		  clear - erase all the text in terminal to make it easier to read
+Useful Commands:
+
+cd - for changing preferred directory
+ls - for listing the files and directories of the current folder
+clear - erase all the text in terminal to make it easier to read
 
 4. Enter the following commands one by one:
 	1. vagrant up
